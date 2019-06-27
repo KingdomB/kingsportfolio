@@ -244,6 +244,7 @@ a.readmore:hover {
 .fancy-header img {
 	float:left;
 	width:100%;
+	object-fit: cover
 }
 .fixed-title {
 	position:absolute;
